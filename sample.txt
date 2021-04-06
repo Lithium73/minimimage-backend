@@ -1,0 +1,13 @@
+{
+  "router" : "RoomRouter",
+  "method" : "createGame",
+  "args" : {}
+}
+
+{
+  "router" : "PlayerRouter",
+  "method" : "addPlayer",
+  "args" : {"name":"poyet","roomId":"b396"}
+}
+
+
